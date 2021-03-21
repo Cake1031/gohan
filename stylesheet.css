@@ -22,11 +22,13 @@ input {
 	margin: auto;
 	margin-top: 100px;
 	padding: 50px;
+	color: 	black;
 }
 
 input[type="button"] {
 	-webkit-appearance: none;
 	border-radius: 0;
+	background-color: #DCDCDC;
 }
 
 input[value] {
