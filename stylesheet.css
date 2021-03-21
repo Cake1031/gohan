@@ -2,7 +2,7 @@
 	text-align: center;
 	opacity: 0.5;
 	padding-top: 50px;
-	font-size: 60px;
+	font-size: 85px;
 
 }
 
@@ -11,7 +11,7 @@
 	display: block;
 	padding-top: 20px;
 	margin: auto;
-	width: 55%;
+	width: 80%;
 }
 
 input {
@@ -43,7 +43,7 @@ input[value] {
 .menu h4 {
 	font-weight: normal;
 	color: #696969;
-	font-size: 65px;
+	font-size: 75px;
 }
 
 .menu p {
