@@ -1,20 +1,17 @@
+.top h3 {
+	text-align: center;
+	opacity: 0.5;
+	padding-top: 50px;
+	font-size: 60px;
+
+}
+
 
 .top img {
 	display: block;
-	padding-top: 100px;
+	padding-top: 20px;
 	margin: auto;
-	width: 70%;
-}
-
-.top h1 {
-	color: #708090;
-	text-align: center;
-	font-size: 110px;
-
-}
-
-.top h1 span {
-	color: red;
+	width: 55%;
 }
 
 input {
@@ -22,36 +19,38 @@ input {
 	margin: auto;
 	margin-top: 100px;
 	padding: 50px;
-	color: 	black;
 }
 
 input[type="button"] {
 	-webkit-appearance: none;
 	border-radius: 0;
-	background-color: #D3D3D3;
+	padding: 30px;
+	width: 25%;
+	border-radius: 15px;
+	border: 2px solid #f50057;;
 }
 
 input[value] {
-	font-size: 25px;
+	font-size: 35px;
+	color: 	#f50057;;
 }
 
 .menu {
 	text-align: center;
-	padding-top: 70px;
+	padding-top: 125px;
 }
 
 .menu h4 {
 	font-weight: normal;
 	color: #696969;
-	font-size: 50px;
+	font-size: 65px;
 }
 
 .menu p {
 	font-weight: normal;
-	font-size: 45px;
+	font-size: 60px;
 }
 
 .menu p span {
 	color: #FF0000;
-	font-size: 45px;
 }
