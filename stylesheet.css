@@ -28,7 +28,7 @@ input {
 input[type="button"] {
 	-webkit-appearance: none;
 	border-radius: 0;
-	background-color: #DCDCDC;
+	background-color: #D3D3D3;
 }
 
 input[value] {
