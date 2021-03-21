@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+}
+
+.top h1 {
+	font-size: 110px;
+	letter-spacing: 9px;
+	color: #708090;
+}
+
+.top h1 span {
+	color: red;
+}
+
+ul	{
+	float: left;
+	letter-spacing: 3px;
+	padding-top: 70px;
+}
+
+li {
+	font-size: 30px;
+	padding-left: 300px;
+	padding-top: 44px;
+}
+
+.back {
+	padding-top: 10px;
+}
