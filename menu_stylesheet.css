@@ -1,16 +1,29 @@
 body {
-	text-align: center;
+
 }
 
 .top h1 {
 	font-size: 110px;
 	letter-spacing: 9px;
 	color: #708090;
+	text-align: center;
 }
 
 .top h1 span {
 	color: red;
 }
+
+.mo {
+	padding-top: 10px;
+}
+
+.mo p {
+	font-size: 50px;
+	float: right;
+
+}
+
+/*ここから先はメニューについて */
 
 ul	{
 	float: left;
@@ -20,14 +33,6 @@ ul	{
 
 li {
 	font-size: 50px;
-	padding-left: 300px;
+	padding-left: 100px;
 	padding-top: 44px;
-}
-
-.back {
-	padding-top: 10px;
-}
-
-.back h4 {
-	font-size: 40px;
 }
